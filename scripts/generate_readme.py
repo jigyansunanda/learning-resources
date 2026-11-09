@@ -25,7 +25,7 @@ def main():
         "# Learning Resources\n",
         "A curated directory for software engineering and computer science.\n",
         "**[🌐 Visit the Searchable Directory](https://jigyansunanda.github.io/learning-resources/)**\n",
-        "> [!NOTE]\n",
+        "> [!NOTE]",
         "> This README is auto-generated. To add a resource, edit the `data/resources.json`.\n",
         "## Recent Additions\n",
         "| Resource | Tags | Notes |",
