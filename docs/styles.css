@@ -1,0 +1,82 @@
+:root {
+    --bg: #272822;
+    --card-bg: #3e3d32;
+    --text: #f8f8f2;
+    --accent: #a6e22e;
+    --tag-bg: #75715e;
+}
+
+body {
+    font-family:
+        system-ui,
+        -apple-system,
+        sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    line-height: 1.5;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+.controls {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+input,
+select {
+    padding: 0.75rem;
+    background: var(--card-bg);
+    border: 1px solid var(--tag-bg);
+    color: var(--text);
+    border-radius: 4px;
+}
+
+input {
+    flex: 1;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.card {
+    background: var(--card-bg);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-top: 4px solid var(--accent);
+}
+
+.card h2 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.25rem;
+}
+.card a {
+    color: var(--accent);
+    text-decoration: none;
+}
+.card a:hover {
+    text-decoration: underline;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.tag {
+    background: var(--tag-bg);
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+}

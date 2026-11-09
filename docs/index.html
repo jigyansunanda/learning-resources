@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Learning Resources</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <header>
+            <h1>Learning Resources</h1>
+            <p>
+                Discover quality resources for software engineering and computer
+                science.
+            </p>
+            <div class="controls">
+                <input
+                    type="text"
+                    id="search"
+                    placeholder="Search resources..."
+                />
+                <select id="tag-filter">
+                    <option value="all">All Tags</option>
+                </select>
+            </div>
+        </header>
+        <main>
+            <div id="results-count"></div>
+            <div id="resources-grid" class="grid"></div>
+        </main>
+        <script src="app.js"></script>
+    </body>
+</html>

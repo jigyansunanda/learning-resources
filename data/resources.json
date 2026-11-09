@@ -1,0 +1,72 @@
+[
+  {
+    "name": "TrenTorch",
+    "url": "https://trentorch.com/",
+    "tags": [
+      "Python",
+      "Computer Vision",
+      "Data Science",
+      "Deep Learning",
+      "Machine Learning",
+      "Mathematics for ML",
+      "Reinforcement Learning",
+      "Research Papers",
+      "Distributed Systems",
+      "Production and Reliability"
+    ],
+    "notes": "Write every algorithm from scratch, from linear regression, neural networks, RL and inference to kernels, and see exactly what your code does at every step. 1647+ problems with theory and practical explanation. Free. No subscriptions. Powered by sponsors and donations."
+  },
+  {
+    "name": "NeetCode",
+    "url": "https://neetcode.io/",
+    "tags": [
+      "Algorithms",
+      "Important for Interview",
+      "System Design",
+      "Low Level Design",
+      "Database",
+      "Machine Learning",
+      "Roadmap"
+    ],
+    "notes": "Contains roadmap and practice questions for Algorithms, Database, System Design, Low Level Design and Machine Learning. Algorithmic questions are tagged with Company (Pro feature)"
+  },
+  {
+    "name": "AceDevHub",
+    "url": "https://acedevhub.com/",
+    "tags": ["JavaScript", "TypeScript", "Important for Interview", "Roadmap"],
+    "notes": "Mostly focused on learning JS and TS (excellent and essential theory with example code). Also has projects to try. Has roadmaps. Contains very good interview questions on JS and TS."
+  },
+  {
+    "name": "Exercism",
+    "url": "https://exercism.org/",
+    "tags": ["Programming Language"],
+    "notes": "Tracks on all programming languages, with starting from basics to algorithms. Mostly implementation questions to gain mastery over a language. Includes scripting languages as well."
+  },
+  {
+    "name": "Interview Desk",
+    "url": "https://prepwithme.interviewdesk.workers.dev/",
+    "tags": [
+      "Backend",
+      "Database",
+      "Distributed Systems",
+      "System Design",
+      "High Level Design",
+      "Low Level Design",
+      "Important for Interview"
+    ],
+    "notes": "Interview question for everything backend related: security, databases, distributed systems, caching, messaging queues, networking & APIs, infra, reliability, scaling, performance, observability, devops."
+  },
+  {
+    "name": "ScaleDojo",
+    "url": "https://scaledojo.dev/",
+    "tags": [
+      "Python",
+      "Algorithms",
+      "High Level Design",
+      "Low Level Design",
+      "Roadmap",
+      "AI Engineering Fundamentals"
+    ],
+    "notes": "The learning track here includes Algorithmic Fundamentals (Python) + Python language concepts, HLD Fundamentals, LLD Fundamentals, API Design Fundamentals, AI Engineering Fundamentals."
+  }
+]
