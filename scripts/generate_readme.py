@@ -24,8 +24,9 @@ def main():
     md = [
         "# Learning Resources\n",
         "A curated directory for software engineering and computer science.\n",
-        "**[🌐 View the Searchable Directory](https://<YOUR_GITHUB_USERNAME>.github.io/learning-resources/)**\n",
-        "> *Note: This README is auto-generated. To add a resource, edit `data/resources.json`.*\n",
+        "**[🌐 Visit the Searchable Directory](https://jigyansunanda.github.io/learning-resources/)**\n",
+        "> [!NOTE]\n",
+        "> This README is auto-generated. To add a resource, edit the `data/resources.json`.\n",
         "## Recent Additions\n",
         "| Resource | Tags | Notes |",
         "|---|---|---|",
