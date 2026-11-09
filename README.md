@@ -5,7 +5,6 @@ A curated directory for software engineering and computer science.
 **[🌐 Visit the Searchable Directory](https://jigyansunanda.github.io/learning-resources/)**
 
 > [!NOTE]
-
 > This README is auto-generated. To add a resource, edit the `data/resources.json`.
 
 ## Recent Additions
